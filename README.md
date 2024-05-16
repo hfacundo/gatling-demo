@@ -8,3 +8,5 @@
 ## Simulations
  * src/test/java/computerdatabase/ComputerDatabaseSimulation.java
  * src/test/java/simulations/DummySimulation.java
+## Report
+  Link to the report is shown in the console after running a simulation
